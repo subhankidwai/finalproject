@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.carousel{
+    width: 100%;
+    height: 200px;
+    background: transparent linear-gradient(67deg, #E71D3A 0%, #ECC7C1 45%, #EFCAC4 58%, #E4BDB8 70%, #42A8FE 100%) 0% 0% no-repeat padding-box;
+}
+
+.carouselImg {
+    padding: 9px;
+    display: inherit;
+    margin-right: 12px;
+    margin-left: auto;
+    width: 250px;
+    height: 180px;
+}
+
+.seller{
+    text-align: center;
+}
+
+.carouse2{
+    background: #2E90E5 0% 0% no-repeat padding-box;
+    height: 280px;
+    position: relative;
+}
+
+.carouse2 img{
+    height: 350px;
+    top: -70px;
+    left: 70%;
+    position: absolute;
+}
+
+.carouse2 h3{
+    text-align: left;
+    font: normal normal normal 47px/35px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    position: absolute;
+    width: 266px;
+    left: 25%;
+    top:75px
+}
+
+.carouse2 p{
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    position: absolute;
+    width: 266px;
+    /* height: 82px; */
+    left: 25%;
+    top: 121px;
+    margin: 0;
+    display: inline-block;
+    line-height: 20px;
+}

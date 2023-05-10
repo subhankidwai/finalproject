@@ -1,0 +1,19 @@
+.ProfileBar{
+    font-size: small;
+    position: relative;
+    left: 60%;
+}
+
+.ProfileBar button{
+    border: none;
+    background: none;
+    margin: 10px;
+}
+
+.ProfileBar  :hover {
+    cursor: pointer;
+}
+
+.button{
+    color: black;
+}
